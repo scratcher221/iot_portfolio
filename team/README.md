@@ -21,10 +21,10 @@ Working with the Arduino:
 - The LED is turned off and on by alternating the voltages between HIGH and LOW
 - This is done with the command "digitalwrite"
 - There were some issues we encountered during the whole process:
-- The LEDs didn't respond to the instructions on the initial try.
-- We tried to troubleshoot this by installing additional drivers on Windows.
-- However, this didn't fix the problem unfortunately, so we tried to simply restart the IDE.
-- After this, an additional PORT "COM8" appeared in the IDE.
-- When selecting this port instead of "COM3", the LED started blinking.
+    - The LEDs didn't respond to the instructions on the initial try.
+    - We tried to troubleshoot this by installing additional drivers on Windows.
+    - However, this didn't fix the problem unfortunately, so we tried to simply restart the IDE.
+    - After this, an additional PORT "COM8" appeared in the IDE.
+    - When selecting this port instead of "COM3", the LED started blinking.
 
 
