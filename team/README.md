@@ -27,4 +27,6 @@ Working with the Arduino:
     - After this, an additional PORT "COM8" appeared in the IDE.
     - When selecting this port instead of "COM3", the LED started blinking.
 
-
+Problems we faced:
+- Cable wasn't working properly
+- Drivers weren't installed properly (restarting the system solved the problem... yeah it was that easy...)
