@@ -1,9 +1,9 @@
 # 2. Lecture
 ## Research on RS232 (1), I2C (2), SPI (3), Onewire(4)
 * Onewire(4) = My group
-** provides:
-*** low-speed data
-*** signaling
+    * provides:
+    * low-speed data
+    * signaling
 power over a single conductor (Leiter)
 similar to I2C, but has lower data rates and longer range
 used for inexpensive communications like with digital thermometers
