@@ -2,27 +2,27 @@
 ## Research on RS232 (1), I2C (2), SPI (3), Onewire(4)
 * Onewire(4) = My group
     * provides:
-    * low-speed data
-    * signaling
-power over a single conductor (Leiter)
-similar to I2C, but has lower data rates and longer range
-used for inexpensive communications like with digital thermometers
-network of Onewire devices = MicroLAN
-can use only two wires (data and ground), 3rd possible
-often included as a single component in a product
-Each Onewire chip has an unique identifier
-for example key to open a lock
-deactivate burglar alarms
-Examples:
-iButton (Dallas Key)
-Java Ring
-always 1 master in a MircoLAN, multiple slaves
-cheap, easy to use, simple to use
-64 bit address
-Master communicates over address
-Master: also commucates with skip-ROM command
-voltage-based digital system
-half-duplex, bidirectional
+        * low-speed data
+        * signaling
+        * power over a single conductor (Leiter)
+        * similar to I2C, but has lower data rates and longer range
+        * used for inexpensive communications like with digital thermometers
+        * network of Onewire devices = MicroLAN
+        * can use only two wires (data and ground), 3rd possible
+        * often included as a single component in a product
+        * Each Onewire chip has an unique identifier
+        * for example key to open a lock
+        * deactivate burglar alarms
+    * Examples:
+        * iButton (Dallas Key)
+        * Java Ring
+        * always 1 master in a MircoLAN, multiple slaves
+        * cheap, easy to use, simple to use
+        * 64 bit address
+        * Master communicates over address
+        * Master: also commucates with skip-ROM command
+        * voltage-based digital system
+        * half-duplex, bidirectional
 Usage
 battery monitoring
 real-time clock
