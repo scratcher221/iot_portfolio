@@ -1,1 +1,0 @@
-#Protocol of first lecture
