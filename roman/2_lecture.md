@@ -23,42 +23,42 @@
         * Master: also commucates with skip-ROM command
         * voltage-based digital system
         * half-duplex, bidirectional
-Usage
-battery monitoring
-real-time clock
-flow measurements
-wheather instruments
-RS232 (1)
-not often used
-former used in modems, routers, switches, mouses and keyboards
-speed depends on cable and wanted speed; the more the power, the shorter the cable
-connections for listen state and communicate state
-low-capacity ~ 300m; normal capacity ~ 15m
-I2C(2)
-low-speed periphal processors
-low-cost, low-active bus working with different voltage
-standard 100 kBit/s, fast mode 400 kBit/s, high-speed 3.4 MBit/s
-usage
-change volume of devices
-for real-time clocks
-fans in computers
-two bidirectional connectors, serial data line, serial clock line
-7-bit address space
-master-slave mode
-message protocol (master <-> slave)
-SPI (3)
-Serial Peripheral Interface
-synchronous serial data bus
-master-slave architecture
-wires are
-serial clock
-master output
-slave input
-MOSI, MISO
-full-duplex capable
-usage:
-audio
-communications between micro controllers
-air pressure, temperature, Micro SD card reader
-distance: max. 3m
-slave-select: enable/disable specific devices
+    * Usage:
+        * battery monitoring
+        * real-time clock
+        * flow measurements
+        * wheather instruments
+* RS232 (1)
+    * not often used
+    * former used in modems, routers, switches, mouses and keyboards
+    * speed depends on cable and wanted speed; the more the power, the shorter the cable
+    * connections for listen state and communicate state
+    * low-capacity ~ 300m; normal capacity ~ 15m
+* I2C(2)
+    * low-speed periphal processors
+    * low-cost, low-active bus working with different voltage
+    * standard 100 kBit/s, fast mode 400 kBit/s, high-speed 3.4 MBit/s
+    * usage
+        * change volume of devices
+        * for real-time clocks
+        * fans in computers
+        * two bidirectional connectors, serial data line, serial clock line
+        * 7-bit address space
+        * master-slave mode
+        * message protocol (master <-> slave)
+* SPI (3)
+    * Serial Peripheral Interface
+    * synchronous serial data bus
+    * master-slave architecture
+    * wires are
+    * serial clock
+    * master output
+    * slave input
+    * MOSI, MISO
+    * full-duplex capable
+    * usage:
+        * audio
+        * communications between micro controllers
+        * air pressure, temperature, Micro SD card reader
+        * distance: max. 3m
+        * slave-select: enable/disable specific devices
