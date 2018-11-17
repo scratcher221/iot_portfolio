@@ -1,6 +1,45 @@
 # 2. Lecture
-## Research on RS232 (1), I2C (2), SPI (3), Onewire(4)
-* Onewire(4) = My group
+## Research on RS232, I2C, SPI, Onewire
+
+* RS232
+    * not often used
+    * former used in modems, routers, switches, mouses and keyboards
+    * speed depends on cable and wanted speed; the more the power, the shorter the cable
+    * connections for listen state and communicate state
+    * low-capacity ~ 300m; normal capacity ~ 15m
+    * modern devices don't have rs232 port, using a adapter mandatory 
+	
+* I2C
+    * low-speed periphal processors
+    * low-cost, low-active bus working with different voltage
+    * standard 100 kBit/s, fast mode 400 kBit/s, high-speed 3.4 MBit/s
+    * usage
+        * change volume of devices
+        * for real-time clocks
+        * fans in computers
+        * two bidirectional connectors, serial data line, serial clock line
+        * 7-bit address space
+        * master-slave mode
+        * message protocol (master <-> slave)
+		
+* SPI
+    * Serial Peripheral Interface
+    * synchronous serial data bus
+    * master-slave architecture
+    * wires are
+    * serial clock
+    * master output
+    * slave input
+    * MOSI, MISO
+    * full-duplex capable
+    * usage:
+        * audio
+        * communications between micro controllers
+        * air pressure, temperature, Micro SD card reader
+        * distance: max. 3m
+        * slave-select: enable/disable specific devices
+
+* Onewire
     * provides:
         * low-speed data
         * signaling
@@ -28,37 +67,3 @@
         * real-time clock
         * flow measurements
         * wheather instruments
-* RS232 (1)
-    * not often used
-    * former used in modems, routers, switches, mouses and keyboards
-    * speed depends on cable and wanted speed; the more the power, the shorter the cable
-    * connections for listen state and communicate state
-    * low-capacity ~ 300m; normal capacity ~ 15m
-* I2C(2)
-    * low-speed periphal processors
-    * low-cost, low-active bus working with different voltage
-    * standard 100 kBit/s, fast mode 400 kBit/s, high-speed 3.4 MBit/s
-    * usage
-        * change volume of devices
-        * for real-time clocks
-        * fans in computers
-        * two bidirectional connectors, serial data line, serial clock line
-        * 7-bit address space
-        * master-slave mode
-        * message protocol (master <-> slave)
-* SPI (3)
-    * Serial Peripheral Interface
-    * synchronous serial data bus
-    * master-slave architecture
-    * wires are
-    * serial clock
-    * master output
-    * slave input
-    * MOSI, MISO
-    * full-duplex capable
-    * usage:
-        * audio
-        * communications between micro controllers
-        * air pressure, temperature, Micro SD card reader
-        * distance: max. 3m
-        * slave-select: enable/disable specific devices
