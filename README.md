@@ -1,6 +1,6 @@
-# iot_portfolio
-Portfolio for the course Internet of Things
+# IoT Portfolio Repository
+[Romans Repository](https://github.com/scratcher221/iot_portfolio/tree/master/roman)
+[Davids Repository](https://github.com/scratcher221/iot_portfolio/tree/master/david)
+[Team Repository](https://github.com/scratcher221/iot_portfolio/tree/master/team)
 
-Setting up the Raspberry PI:
-  - Flash the ulnoiot image to the Raspberry PI using the tool Etcher. The image can be written from the program directly,
-    there is no need to unpack the file.
+
