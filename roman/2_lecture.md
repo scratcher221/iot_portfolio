@@ -8,7 +8,6 @@
     * connections for listen state and communicate state
     * low-capacity ~ 300m; normal capacity ~ 15m
     * modern devices don't have rs232 port, using a adapter mandatory 
-	
 * I2C
     * low-speed periphal processors
     * low-cost, low-active bus working with different voltage
@@ -21,7 +20,6 @@
         * 7-bit address space
         * master-slave mode
         * message protocol (master <-> slave)
-		
 * SPI
     * Serial Peripheral Interface
     * synchronous serial data bus
@@ -38,7 +36,6 @@
         * air pressure, temperature, Micro SD card reader
         * distance: max. 3m
         * slave-select: enable/disable specific devices
-
 * Onewire
     * provides:
         * low-speed data
