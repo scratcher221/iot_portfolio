@@ -64,3 +64,22 @@
         * real-time clock
         * flow measurements
         * wheather instruments
+		
+		
+		
+* Project Idea: (together with Simon Angerbauer, Anika Seibezeder)
+Student: Anika
+School officer: Roman
+Robber: Simon
+
+Anika just finished her IoT lecture and is on the way to her exercise. 
+While chatting on her phone with her friend, Simon grabs her phone and runs away.
+Anika screams and pulls her emergency wristband to notify the authorities. 
+
+The wristband automatically determines the location. As Anika is inside, GPS can not be used. 
+Therefore the specific room inside the school is found with beacons. 
+
+Roman is eating his donuts, like everyday. 
+Suddenly he gets a notification, that Anika has been robbed in FH Hagenberg in the hallway on the first floor. 
+Roman is sprinting to the location, tackles Simon and takes him down. The robbery has been avoided. 
+Anika is happy and Simon is suspended for three days.
