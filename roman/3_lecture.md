@@ -1,4 +1,15 @@
 # 3. Lecture
+##Exchange Formats
+*Binary
+
+*Text
+
+*XML
+
+*JSON
+
+*YAML
+
 ## Consortiums/Foundations/Alliances. 
 * Title, Notable members, Purpose/challenges, Cost/access to consortium
 
