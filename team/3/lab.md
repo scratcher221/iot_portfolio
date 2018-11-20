@@ -25,3 +25,20 @@ Troubleshooting:
 The MQTT.fx we used was obtained from: https://mqttfx.jensd.de/index.php/download
 
 The version 1.7.1 was installed on the target machine. Some configuration had to be done to ensure everything works properly. The following configuration was used:
+
+![mqttfx_configuration](https://github.com/scratcher221/iot_portfolio/blob/master/team/images/mqttfx_configuration.jpg)
+
+We were then able to send data in the "Publish/Subscribe" pattern. In the graphical user interface we were able to define any text as data, which was then published. The subscriber then received this data from the publisher and outputs it, also in the GUI, as text on a terminal. In our case, the server was running on the Pi, which both, received and sent the data.
+
+### Building Simulators in Java
+
+The MQTT client was set up according to the following guide: https://www.eclipse.org/paho/clients/java/
+
+The library was obtained from the following Maven repository: https://search.maven.org/classic/#search%7Cgav%7C1%7Cg%3A%22org.eclipse.paho%22%20AND%20a%3A%22org.eclipse.paho.client.mqttv3%22
+
+- Temperature sensor simulator:
+The guide already provided an example for an MQTT Publisher. We modified this example to simulate a temperature sensor, with a starting value, end value, and a certain rising slope. This was done by implementing a timer that increments or decrements the temperature value in certain intervals. Code see: http:/...
+- Relay switch simulator:
+For the relay switch simulator, we also modified the MQTT Publisher. Code is in the repo...
+- Integrator:
+For the integrator, we connected the temperature sensor to it, so it can receive temperature values and send a command to the relay switch simulator (AC) at a certain temperature value. Code see repo ...
