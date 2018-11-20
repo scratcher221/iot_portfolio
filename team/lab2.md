@@ -17,6 +17,10 @@ Troubleshooting:
     - We solved this by using a library which implements a simple HTTP client, and defining the POST request ourselves.
 - Another problem that occures was spamming of notifications, by failing to declare that the HTTP request should be fired by pressing the button, and instead firing it when the button is NOT pressed. This resulted in hundreds of notifications from the IFTTT app.
 
+Result:
+
+![notification screenshot](https://github.com/scratcher221/iot_portfolio/blob/master/team/images/screenshot_ifttt.png)
+
 ## Exercise 2
 
 We use the following tutorial to control the IC2 LCD: https://www.sunfounder.com/learn/Sensor-Kit-v2-0-for-Arduino/lesson-1-display-by-i2c-lcd1602-sensor-kit-v2-0-for-arduino.html
@@ -25,3 +29,7 @@ Setting things up:
 - Connect the 4 wires from the IC2 LCD to the ESP 8266 board on the required pins. (GND to GND, VCC to 5V, etc...)
 - The library <LiquidCrystal_I2C.h> is used to communicate with the display
 - The message "HELLO WORLD" is printed to the display.
+
+Result:
+
+![working display](https://github.com/scratcher221/iot_portfolio/blob/master/team/images/working_display.jpg)
