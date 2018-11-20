@@ -49,8 +49,13 @@ For the integrator, we connected the temperature sensor to it, so it can receive
 
 Results:
 - Screenshot of the temperature sensor:
+
 ![temp_sensor](https://github.com/scratcher221/iot_portfolio/blob/master/team/3/images/temperature_sensor.jpeg)
+
 - Screenshot of the AC switch:
+
 ![ac_switch](https://github.com/scratcher221/iot_portfolio/blob/master/team/3/images/AC_switch.jpeg)
+
 - Screenshot of the integrator:
+
 ![integrator](https://github.com/scratcher221/iot_portfolio/blob/master/team/3/images/AC_switch.jpeg)
