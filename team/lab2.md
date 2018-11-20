@@ -2,14 +2,16 @@
 
 ## Exercise 1
 
-Troubleshooting:
-- Unfortunately, the button we used for triggering the remote event, was defective, so we wasted a lot of time trying to figure out why it didn't work.
-- We exchanged this defective button to a working one.
+Procedure:
 - For the button, which triggers a HTTP POST, first we set up the IFTTT WebHook:
     - Download the IFTT Android App.
     - Log into the App using a Google account
     - Create a new applet, which receives requests via a Webhook (Select Webhooks as the trigger service)
     - Define in the applet settings, that a notification should be sent when the trigger is received.
+
+Troubleshooting:
+- Unfortunately, the button we used for triggering the remote event, was defective, so we wasted a lot of time trying to figure out why it didn't work.
+- We exchanged this defective button to a working one.
 - The notification is only triggered when directly making the HTTP POST request in the browser, pressing the button did not work on the first try.
     - The problem could lie in the fact that we used a library to craft the POST request, instead of creating it ourselves in the script on the ESP 8266 board.
     - We solved this by using a library which implements a simple HTTP client, and defining the POST request ourselves.
