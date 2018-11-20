@@ -17,4 +17,12 @@ Bus overview, Modelling types
 
 ---
 
+### 3. Lecture
+Exchange formats (Binary, Text, XML (focus on SOAP), JSON, YAML)
+
+| Slides  | Lecture notes | Lab Report | Reflexion |
+| ------------- | ------------- | ------------- | ------------- |
+| [Slides](https://ulno.net/teaching/iot/intro/03.pdf)  | [Lecture notes](https://github.com/scratcher221/iot_portfolio/blob/master/roman/3_lecture.md)  | [Lab Report](https://github.com/scratcher221/iot_portfolio/blob/master/team/3/lab.md)  | [Reflexion](https://github.com/scratcher221/iot_portfolio/blob/master/roman/3_reflexion.md)  |
+
+---
 
