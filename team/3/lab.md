@@ -20,6 +20,10 @@ Troubleshooting:
 - When we realized that, we sent a "0" instead of a "1" in the POST request.
 - After this step, everything worked as it should.
 
+Results:
+- Screenshot of the working Copper4Cr GUI:
+![Copper4Cr_gui](https://github.com/scratcher221/iot_portfolio/blob/master/team/3/images/chrome_extension.png)
+
 ## Exercise 2 (MQTT)
 
 The MQTT.fx we used was obtained from: https://mqttfx.jensd.de/index.php/download
@@ -42,3 +46,11 @@ The guide already provided an example for an MQTT Publisher. We modified this ex
 For the relay switch simulator, we also modified the MQTT Publisher. Code is in the repo...
 - Integrator:
 For the integrator, we connected the temperature sensor to it, so it can receive temperature values and send a command to the relay switch simulator (AC) at a certain temperature value. Code see repo ...
+
+Results:
+- Screenshot of the temperature sensor:
+![temp_sensor](https://github.com/scratcher221/iot_portfolio/blob/master/team/3/images/temperature_sensor.jpeg)
+- Screenshot of the AC switch:
+![ac_switch](https://github.com/scratcher221/iot_portfolio/blob/master/team/3/images/AC_switch.jpeg)
+- Screenshot of the integrator:
+![integrator](https://github.com/scratcher221/iot_portfolio/blob/master/team/3/images/AC_switch.jpeg)
