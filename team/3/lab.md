@@ -58,4 +58,4 @@ Results:
 
 - Screenshot of the integrator:
 
-![integrator](https://github.com/scratcher221/iot_portfolio/blob/master/team/3/images/AC_switch.jpeg)
+![integrator](https://github.com/scratcher221/iot_portfolio/blob/master/team/3/images/integrator.jpeg)
