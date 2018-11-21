@@ -1,14 +1,20 @@
 # 3. Lecture
 ##Exchange Formats
-*Binary
-
-*Text
-
-*XML
-
-*JSON
-
-*YAML
+* Binary
+    * not human readable
+    * not a standard, not really recommended
+* Text
+    * Human readable
+    * not a standard
+* XML
+    * Human readable
+    * standard
+* JSON
+    * Human readable
+    * standard
+* YAML
+    * Most of the JSON parsers can read YAML
+    * standard
 
 ## Consortiums/Foundations/Alliances. 
 * Title, Notable members, Purpose/challenges, Cost/access to consortium
