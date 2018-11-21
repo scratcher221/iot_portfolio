@@ -26,3 +26,13 @@ Exchange formats (Binary, Text, XML (focus on SOAP), JSON, YAML)
 
 ---
 
+---
+
+### 4. Lecture
+Scaling and Testing, IoT Frameworks,
+
+| Slides  | Lecture notes | Lab Report | Reflexion |
+| ------------- | ------------- | ------------- | ------------- |
+| [Slides](https://ulno.net/teaching/iot/intro/04.pdf)  | [Lecture notes](https://github.com/scratcher221/iot_portfolio/blob/master/roman/4_lecture.md)  | [Lab Report](https://github.com/scratcher221/iot_portfolio/blob/master/team/4/lab.md)  | [Reflexion](https://github.com/scratcher221/iot_portfolio/blob/master/roman/4_reflexion.md)  |
+
+---
