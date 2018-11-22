@@ -13,6 +13,8 @@ Inside the tool, we select the device ESP8266 and the port USB0.
 After setting things up, follow the tutorial step-by-step located at the same url as above (https://mongoose-os.com/docs/quickstart/setup.md). 
 There, you create an app, build it and flash it on the esp8266 afterwards.
 
+We had issues with editing the init file because it was absent. After researching for an hour, we found out that the file wasn't even missing, but just not being displayed in our window. WOW!
+We just simply opened up the file and connected a button to our board. GND to GND, V to V3 and SIG to D3.
 
 
 
