@@ -29,7 +29,11 @@ In order to connect a sensor to our device, we were following that tutorial: htt
 
 ### App 1
 
-The first app was simply a clone of the app template provided in the tutorial, only slightly modified. We modified it in such a way, that a custom message is output on button click, and the blue LED is toggled on/off. The source code can be found here: 
+The first app was simply a clone of the app template provided in the tutorial, only slightly modified. We modified it in such a way, that a custom message is output on button click, and the blue LED is toggled on/off. The source code can be found here: https://github.com/scratcher221/iot_portfolio/tree/master/team/4/code/app1
+
+Here is a screenshot of App 1 in action:
+
+![mongoose-app1](https://github.com/scratcher221/iot_portfolio/blob/master/team/4/images/mongoose_os_altered_firmware.png)
 
 ### App 2
 
@@ -40,3 +44,4 @@ Here is a screenshot of the result:
 ![mongoose-humidity-log](https://github.com/scratcher221/iot_portfolio/blob/master/team/4/images/mongoose_os_humidity_log.png)
 
 In the screenshot one can see that the app periodically executes a timer that queries data from the humiture sensor.
+Code for App 2 can be found here: https://github.com/scratcher221/iot_portfolio/tree/master/team/4/code/app2
