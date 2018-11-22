@@ -45,3 +45,7 @@ Here is a screenshot of the result:
 
 In the screenshot one can see that the app periodically executes a timer that queries data from the humiture sensor.
 Code for App 2 can be found here: https://github.com/scratcher221/iot_portfolio/tree/master/team/4/code/app2
+
+The setup for the humiture sensor looked like this:
+
+![humiture-sensor-setup](https://github.com/scratcher221/iot_portfolio/blob/master/team/4/images/humidity_sensor_setup.jpg)
