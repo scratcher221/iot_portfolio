@@ -26,7 +26,7 @@ The presented frameworks and their features were:
 | Age | 3 years old | 3 years old | newer |
 | Runs on edge devices | yes | yes | yes |
 | Programming language | Java | Node.js | GO |
-| Virtual Machine | JVM | V8 | Golang |
+| Virtual Machine | JVM | V8 | - (compiled) |
 | Deployment size | Heavy (~ 200 MB) | Light (~ 20 MB) | Very Light (~ 2 MB) |
 | Startup time | ~ 8 sec | ~ 5 sec | ~ 1 sec |
 
