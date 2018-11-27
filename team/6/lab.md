@@ -1,4 +1,4 @@
-# Lab protocol 5
+# Lab protocol 6
 
 ## Exercise 1 - Rebuilding Project 1 with UlnoIOT
 We followed the tutorial at https://github.com/ulno/ulnoiot#first-iot-nodes.
@@ -14,7 +14,9 @@ We had several problems with flashing the device, so we changed the board name t
 
 The third sensor we had to adapt, means, we should connect it to the wifi via resetting the wemos and then connecting to it via phone.
 We resetted the sensor by connecting Ground to D3 twice.
-![mongoose_dashboard](https://github.com/scratcher221/iot_portfolio/blob/master/team/5/images/relay.png)
+![mongoose_dashboard](https://github.com/scratcher221/iot_portfolio/blob/master/team/6/images/relay.png)
 After that, the sensor blinks and we were able to connect to it via wifi. 
-![mongoose_dashboard](https://github.com/scratcher221/iot_portfolio/blob/master/team/5/images/wifi_set.png)
+![mongoose_dashboard](https://github.com/scratcher221/iot_portfolio/blob/master/team/6/images/wifi_set.png)
 
+These are the mqtt commands we've sent:
+![mongoose_dashboard](https://github.com/scratcher221/iot_portfolio/blob/master/team/6/images/relay_led_mqtt_commands.png)
