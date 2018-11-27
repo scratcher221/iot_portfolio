@@ -41,6 +41,15 @@ Scaling and Testing, IoT Frameworks,
 
 | Slides  | Lecture notes | Lab Report | Reflexion |
 | ------------- | ------------- | ------------- | ------------- |
-| [Slides](https://ulno.net/teaching/iot/intro/05.pdf)  | [Lecture notes](https://github.com/scratcher221/iot_portfolio/blob/master/roman/5_lecture.md)  | [Lab Report](https://github.com/scratcher221/iot_portfolio/blob/master/team/5/lab.md)  | [Reflexion](https://github.com/scratcher221/iot_portfolio/blob/master/roman/5_reflexion.md)  |
+| [Slides](https://ulno.net/teaching/iot/intro/05.pdf)  | [Lecture notes](https://github.com/scratcher221/iot_portfolio/blob/master/roman/5_lecture.md)  | [Lab Report](https://github.com/scratcher221/iot_portfolio/blob/master/team/4/lab.md)  | [Reflexion](https://github.com/scratcher221/iot_portfolio/blob/master/roman/5_reflexion.md)  |
 
 ---
+
+### 6. Sensors
+
+| Slides  | Lecture notes | Lab Report | Reflexion |
+| ------------- | ------------- | ------------- | ------------- |
+| [Slides](https://ulno.net/teaching/iot/intro/06.pdf)  | [Lecture notes](https://github.com/scratcher221/iot_portfolio/blob/master/roman/6_lecture.md)  | [Lab Report](https://github.com/scratcher221/iot_portfolio/blob/master/team/6/lab.md)  | [Reflexion](https://github.com/scratcher221/iot_portfolio/blob/master/roman/6_reflexion.md)  |
+
+---
+

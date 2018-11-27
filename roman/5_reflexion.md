@@ -6,4 +6,5 @@
 
 
 * Exercise:
-    * 
+    * Worked on the project, but didn't manage it in time.
+    * Node-RED is quite simple and straight forward.
