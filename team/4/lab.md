@@ -27,3 +27,25 @@ The mongoose-dashboard now shows our device like that:
 
 In order to connect a sensor to our device, we were following that tutorial: https://mongoose-os.com/docs/quickstart/develop-in-c.md
 
+### App 1
+
+The first app was simply a clone of the app template provided in the tutorial, only slightly modified. We modified it in such a way, that a custom message is output on button click, and the blue LED is toggled on/off. The source code can be found here: https://github.com/scratcher221/iot_portfolio/tree/master/team/4/code/app1
+
+Here is a screenshot of App 1 in action:
+
+![mongoose-app1](https://github.com/scratcher221/iot_portfolio/blob/master/team/4/images/mongoose_os_altered_firmware.png)
+
+### App 2
+
+The second app was built almost from scratch. We downloaded the skeleton app from the tutorial and modified the logic by editing the main.c source file to be used. We added a timer functionality that reports the output of a certain sensor in a specified time interval. The sensor used was the "Humiture Sensor" (DHT11).
+
+Here is a screenshot of the result:
+
+![mongoose-humidity-log](https://github.com/scratcher221/iot_portfolio/blob/master/team/4/images/mongoose_os_humidity_log.png)
+
+In the screenshot one can see that the app periodically executes a timer that queries data from the humiture sensor.
+Code for App 2 can be found here: https://github.com/scratcher221/iot_portfolio/tree/master/team/4/code/app2
+
+The setup for the humiture sensor looked like this:
+
+![humiture-sensor-setup](https://github.com/scratcher221/iot_portfolio/blob/master/team/4/images/humidity_sensor_setup.jpg)
