@@ -53,7 +53,7 @@ Scaling and Testing, IoT Frameworks,
 
 ---
 
-### 6. How does UlnoIOT work internally
+### 7. How does UlnoIOT work internally
 
 | Slides  | Lecture notes | Lab Report | Reflexion |
 | ------------- | ------------- | ------------- | ------------- |
