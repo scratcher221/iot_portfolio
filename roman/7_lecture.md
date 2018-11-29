@@ -76,3 +76,24 @@ mock.expects(once()).method("m").with( or(stringContains("hello"),
 
 ### What is a Subdevice (look at output for example)?
 * kind of a subtopic
+
+
+## How to write a driver
+
+### Analyze and understand the analog driver (header and cpp), note down remarkable features.
+* for example in Output, it created the subdevice out and adds to the construction of the topic
+* it adds the functions start, measure, with\_threshold, with\_precision, read\_float, read\_int, write\_float, write\_int
+
+### Analyze and understand I2C_Device
+* What functionality does it add?
+ - start, measure, measure\_init, clear\_bus init\_i2c, i2c\_start
+ - to initialize and read devices connected with I2C
+
+### Analyze the new VL53L0X driver
+Distance sensor library (Time-of-Flight Distance Sensor)
+
+Register offsets are defined in the header file.
+Functions for writing/reading the registers
+setAddress -> Can set new adress for the device
+
+Functions for changing signal rate, setting timeouts

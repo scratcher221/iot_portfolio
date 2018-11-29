@@ -60,3 +60,11 @@ Scaling and Testing, IoT Frameworks,
 | [Slides](https://ulno.net/teaching/iot/intro/07.pdf)  | [Lecture notes](https://github.com/scratcher221/iot_portfolio/blob/master/roman/7_lecture.md)  | [Lab Report](https://github.com/scratcher221/iot_portfolio/blob/master/team/7/lab.md)  | [Reflexion](https://github.com/scratcher221/iot_portfolio/blob/master/roman/7_reflexion.md)  |
 
 ---
+
+### 8. How does UlnoIOT work internally
+
+| Slides  | Lecture notes | Lab Report | Reflexion |
+| ------------- | ------------- | ------------- | ------------- |
+| [Slides](https://ulno.net/teaching/iot/intro/08.pdf)  | [Lecture notes](https://github.com/scratcher221/iot_portfolio/blob/master/roman/8_lecture.md)  | [Lab Report](https://github.com/scratcher221/iot_portfolio/blob/master/team/8/lab.md)  | [Reflexion](https://github.com/scratcher221/iot_portfolio/blob/master/roman/8_reflexion.md)  |
+
+---
