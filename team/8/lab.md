@@ -16,6 +16,7 @@ These are the values we observed in the log of the debugging console in the Ardu
 ### Raindrop Sensor
 
 The next sensor we tested was the raindrop sensor. 
+
 ![raindrop_waterlevel](https://github.com/scratcher221/iot_portfolio/tree/master/team/8/images/water_level_raindrop.jpg)
 
 These are the values we observed:
