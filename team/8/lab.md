@@ -37,7 +37,7 @@ This was the setup for the experiment:
 
 The values were observed in the MQTT.fx application GUI:
 
-![scale_values](https://github.com/scratcher221/iot_portfolio/tree/master/team/8/images/scale_values.jpg)
+![scale_values](https://github.com/scratcher221/iot_portfolio/tree/master/team/8/images/scale_values.jpeg)
 
 #### Scenario
 
