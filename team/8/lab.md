@@ -41,7 +41,7 @@ The values were observed in the MQTT.fx application GUI:
 
 #### Scenario
 
-With the scale we can detect how much liquid is in the container exactly.
+With the scale we can detect how much liquid is in the container exactly. This could be used for monitoring the amount of excess water in the boat and transmitting this value to the central system monitor.
 
 ### Laser Emitter and Photo Resistor
 
@@ -59,7 +59,7 @@ First thought:
 The container is marked at a certain level that indicates whether it is full or not. The laser emitter is pointed at this mark, and the photo resistor is placed at the opposite side of the container. This works well for liquids that interrupt the laser, like very dirty water or thick, dark oil. 
 Improving this idea:
 A floating object which interrupts light (like a piece of cardboard or something) is put into the water. That way every kind of liquid can be used, even clear water.
-
+In this way, we cannot use this to monitor the exact level of a liquid, but it can be useful for containers that only need to signal when they reach a certain threshold, or fall below a certain threshold (excess water, waste water, oil, gasoline tank)
 ### Reed Switch
 
 We put a magnet that floats in the water (attached to a cork) in front of the reed switch. This should work by closing the switch when a certain threshold is reached. However, in our case this did not work because the magnet was too weak.
