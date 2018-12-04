@@ -68,3 +68,11 @@ Scaling and Testing, IoT Frameworks,
 | [Slides](https://ulno.net/teaching/iot/intro/08.pdf)  | [Lecture notes](https://github.com/scratcher221/iot_portfolio/blob/master/roman/8_lecture.md)  | [Lab Report](https://github.com/scratcher221/iot_portfolio/blob/master/team/8/lab.md)  | [Reflexion](https://github.com/scratcher221/iot_portfolio/blob/master/roman/8_reflexion.md)  |
 
 ---
+
+### 9. LoRa Sensors
+
+| Slides  | Lecture notes | Lab Report | Reflexion |
+| ------------- | ------------- | ------------- | ------------- |
+| [Slides](https://ulno.net/teaching/iot/intro/09.pdf)  | [Lecture notes](https://github.com/scratcher221/iot_portfolio/blob/master/roman/9_lecture.md)  | [Lab Report](https://github.com/scratcher221/iot_portfolio/blob/master/team/9/lab.md)  | [Reflexion](https://github.com/scratcher221/iot_portfolio/blob/master/roman/9_reflexion.md)  |
+
+---
