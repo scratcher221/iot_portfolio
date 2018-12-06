@@ -84,6 +84,13 @@ Photo of the setup, position 2:
 
 ![mercury_switch2](https://github.com/scratcher221/iot_portfolio/tree/master/team/8/images/mercury_switch_pos2.jpg)
 
+### Time of Flight Sensor
+
+The time of flight sensor measures the distance. According to that, you can simply measure distances, similar to the analog distance measurement with sound.
+The sensor values were quite accurate and good for all water types, although it measured not accurate values if it was too bright.
+
+![mercury_switch1](https://github.com/scratcher221/iot_portfolio/tree/master/team/8/images/time_of_flight.jpeg)
+
 #### Scenario
 
 An arm that is fixed onto a rotational axis rotates as the water level rises. The mercury switch is attached to this arm. When the arm is parallel to the water level, it means the threshold is reached. The mercury switch flips when the arm is at that level and sends a signal which indicates that the container is full.
@@ -98,3 +105,4 @@ An arm that is fixed onto a rotational axis rotates as the water level rises. Th
 | Laser Emitter and Photo Resistor | Works well | Works well | Works well |
 | Reed Switch | Did not work | Did not work | Did not work |
 | Mercury Switch | Works well | Works well | Works well |
+| Time of Flight Sensor | Works well | Works well | Works well |
