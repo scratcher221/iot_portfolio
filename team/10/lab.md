@@ -18,18 +18,18 @@ If you want to update the device after you have put it in sleep mode, you ahve t
 
 
 Our Node Red Configuration is looking like that:
-![node_red_configuration](https://github.com/scratcher221/iot_portfolio/tree/master/team/9/images/node_red_configuration.png)
+![node_red_configuration](https://github.com/scratcher221/iot_portfolio/tree/master/team/10/images/node_red_configuration.png)
 
 Before deep sleep, the commands came in every few seconds:
-![node_red_before_power](https://github.com/scratcher221/iot_portfolio/tree/master/team/9/images/node_red_before_power.png)
+![node_red_before_power](https://github.com/scratcher221/iot_portfolio/tree/master/team/10/images/node_red_before_power.png)
 
 After deep sleep, you can see that the device is put into sleep mode, and wakes up after it gets the interrupt.
 To get the interrupt, you have to connect D0 to RST.
-![node_red_after_power](https://github.com/scratcher221/iot_portfolio/tree/master/team/9/images/node_red_after_power.png)
+![node_red_after_power](https://github.com/scratcher221/iot_portfolio/tree/master/team/10/images/node_red_after_power.png)
 
 The power consumption of the WeMos with the temperature sensor was:
 Before Low Power
-![node_red_after_power](https://github.com/scratcher221/iot_portfolio/tree/master/team/9/images/before_power.jpeg)
+![node_red_after_power](https://github.com/scratcher221/iot_portfolio/tree/master/team/10/images/before_power.jpeg)
 
 After low power mode enabled (it jumped from the state before lower mode but consumed 0.0 after the low power mode was enabled)
-![node_red_after_power](https://github.com/scratcher221/iot_portfolio/tree/master/team/9/images/after_power.jpeg)
+![node_red_after_power](https://github.com/scratcher221/iot_portfolio/tree/master/team/10/images/after_power.jpeg)
