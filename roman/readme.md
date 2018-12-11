@@ -84,3 +84,21 @@ Scaling and Testing, IoT Frameworks,
 | [Slides](https://ulno.net/teaching/iot/intro/10.pdf)  | [Lecture notes](https://github.com/scratcher221/iot_portfolio/blob/master/roman/10_lecture.md)  | [Lab Report](https://github.com/scratcher221/iot_portfolio/blob/master/team/10/lab.md)  | [Reflexion](https://github.com/scratcher221/iot_portfolio/blob/master/roman/10_reflexion.md)  |
 
 ---
+
+
+### 11. Interviews
+
+| Slides  | Lecture notes | Reflexion |
+| ------------- | ------------- | ------------- |
+| [Slides](https://ulno.net/teaching/iot/intro/11.pdf)  | [Lecture notes](https://github.com/scratcher221/iot_portfolio/blob/master/roman/11_lecture.md)  | [Reflexion](https://github.com/scratcher221/iot_portfolio/blob/master/roman/11_reflexion.md)  |
+
+---
+
+
+### 12. Deep Sleep, Ulno Projects
+
+| Slides  | Lecture notes | Reflexion |
+| ------------- | ------------- | ------------- |
+| [Slides](https://ulno.net/teaching/iot/intro/12.pdf)  | [Lecture notes](https://github.com/scratcher221/iot_portfolio/blob/master/roman/12_lecture.md)  | [Reflexion](https://github.com/scratcher221/iot_portfolio/blob/master/roman/12_reflexion.md)  |
+
+---
