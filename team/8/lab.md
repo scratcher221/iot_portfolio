@@ -106,3 +106,10 @@ An arm that is fixed onto a rotational axis rotates as the water level rises. Th
 | Reed Switch | Did not work | Did not work | Did not work |
 | Mercury Switch | Works well | Works well | Works well |
 | Time of Flight Sensor | Works well | Works well | Works well |
+
+### Recommendation
+We would recommend, for measuring the water level sensor, to use different sensor types. It always depends on the purpose of use.
+For example, if you want to measure the water level inside dark areas, the time of flight sensor would be perfectly fitting for you.
+On the other hand, if you want to measure in bright areas, it is not as accurate as with other sensors, because of the light.
+A simple solution would be to use the mercury or reed switch, if you just want to measure if there is water/if there is no water at all.
+So, a general recommendation is not possible. It always depends.
