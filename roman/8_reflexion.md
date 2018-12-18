@@ -1,7 +1,7 @@
 # 6. Reflexion
 
 * Lecture:
-    * Missed lecture due to doctors appointment
+    * The criminal facts shocked me.
 
 * Exercise:
     * 

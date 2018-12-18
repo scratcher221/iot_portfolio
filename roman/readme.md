@@ -103,6 +103,15 @@ Scaling and Testing, IoT Frameworks,
 
 ---
 
+
+### 13. Project Presentations
+
+| Lecture notes |
+| ------------- |
+| [Notes](https://github.com/scratcher221/iot_portfolio/blob/master/roman/13_lecture.md)  | 
+---
+
+
 ### Project 3 
 | Project Link  | My Part |
 | ------------- | ------------- |
