@@ -15,7 +15,7 @@ It is possible to detect the state due to the fact of using a reed switch. A mag
 
 ![reed_switch_placed](https://github.com/scratcher221/iot_portfolio/tree/master/team/project3/reed_switch_placed.png)
 
-`Code inside file window_detection_system`
+`A detailed implementation of the sensor can be found under https://github.com/paulisch/iot_fuchs_schmutz/blob/master/exercises/proj03/schmutz_proj03.md`
 
 
 ## Garage Door Opening System

@@ -106,5 +106,5 @@ Scaling and Testing, IoT Frameworks,
 ### Project 3 
 | Project Link  | My Part |
 | ------------- | ------------- |
-| [Slides](https://ulno.net/teaching/iot/intro/12.pdf)  | [Lecture notes](https://github.com/scratcher221/iot_portfolio/blob/master/roman/12_lecture.md)  |
+| [Project Link](https://github.com/scratcher221/iot_portfolio/blob/master/roman/project3.md)  | [Part Roman](https://github.com/scratcher221/iot_portfolio/tree/master/team/project3/roman.md)  |
 
