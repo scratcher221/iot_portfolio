@@ -1,4 +1,14 @@
-# 11. Lecture
+# 12. Lecture
+## Predictive Maintenance
+* techniques which help predict when maintance should be performed
+* use sensors
+* lower downtimes
+
+### Give 3 examples of predictive maintenance in the IoT
+* Maastricht Mill -> equipped their press rolls with temperature and vibration sensors
+* Volvo -> tracks rotating equipment
+* Chevron -> identify corrosion and pipeline damages uses sensors installed across the pipeline which measures pH
+* Florida Power & Light -> estimates when turbines are running ineffectively or are about to fail
 
 ## Check out these companies: Runtastic, Loxone, Nymea, Espert.co, Adafruit, Seeed
 * What is their relation to IoT?
